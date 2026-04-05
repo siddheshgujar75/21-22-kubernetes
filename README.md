@@ -61,9 +61,6 @@ minikube service myapp-service
 * Scalable architecture
 * Local cluster using Minikube
 
-## 📸 Screenshots
-
-(Add screenshots in /screenshots folder)
 
 ## 🎯 Learning Outcome
 
