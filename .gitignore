@@ -1,4 +1,6 @@
+*.tar
+*.zip
+*.log
 node_modules/
 .env
-*.log
-.DS_Store
+screenshots/*.mp4
